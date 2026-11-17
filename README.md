@@ -1,9 +1,13 @@
 # ResQ-AI: Civil-Defense Incident Command & Disaster Logistics System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sfocsw4a7ph9sp7zu3emj3.streamlit.app/?theme=light)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Tests: 56/56 Passed](https://img.shields.io/badge/tests-56%2F56%20passed-brightgreen.svg)]()
 [![Replan Latency: 38.7ms](https://img.shields.io/badge/replan%20latency-38.7ms%20%28%3C100ms%29-brightgreen.svg)]()
+
+> 🌐 **Live Interactive Deployment:** [**https://sfocsw4a7ph9sp7zu3emj3.streamlit.app/**](https://sfocsw4a7ph9sp7zu3emj3.streamlit.app/?theme=light)  
+> *Click above to interact live with the CAD tactical map, dispatch emergency vehicles, and test automated disaster replanning in your browser.*
 
 > An event-driven, mathematically rigorous civil-defense incident command assistant for emergency dispatchers during urban flash floods, earthquakes, and cascading disasters.
 > 
