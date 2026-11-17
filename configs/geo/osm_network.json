@@ -1,0 +1,5131 @@
+{
+  "version": "2.0.0",
+  "crs": "EPSG:4326",
+  "region": "Central River Incident Command District",
+  "bounds": {
+    "min_lat": 42.35,
+    "max_lat": 42.37,
+    "min_lon": -71.08,
+    "max_lon": -71.05
+  },
+  "center": {
+    "lat": 42.36,
+    "lon": -71.065
+  },
+  "nodes": [
+    {
+      "id": "N_0_0",
+      "row": 0,
+      "col": 0,
+      "lat": 42.37,
+      "lon": -71.08,
+      "elevation_m": 18.6
+    },
+    {
+      "id": "N_0_1",
+      "row": 0,
+      "col": 1,
+      "lat": 42.37,
+      "lon": -71.075714,
+      "elevation_m": 19.0
+    },
+    {
+      "id": "N_0_2",
+      "row": 0,
+      "col": 2,
+      "lat": 42.37,
+      "lon": -71.071429,
+      "elevation_m": 19.1
+    },
+    {
+      "id": "N_0_3",
+      "row": 0,
+      "col": 3,
+      "lat": 42.37,
+      "lon": -71.067143,
+      "elevation_m": 18.7
+    },
+    {
+      "id": "N_0_4",
+      "row": 0,
+      "col": 4,
+      "lat": 42.37,
+      "lon": -71.062857,
+      "elevation_m": 18.2
+    },
+    {
+      "id": "N_0_5",
+      "row": 0,
+      "col": 5,
+      "lat": 42.37,
+      "lon": -71.058571,
+      "elevation_m": 18.1
+    },
+    {
+      "id": "N_0_6",
+      "row": 0,
+      "col": 6,
+      "lat": 42.37,
+      "lon": -71.054286,
+      "elevation_m": 18.5
+    },
+    {
+      "id": "N_0_7",
+      "row": 0,
+      "col": 7,
+      "lat": 42.37,
+      "lon": -71.05,
+      "elevation_m": 18.9
+    },
+    {
+      "id": "N_1_0",
+      "row": 1,
+      "col": 0,
+      "lat": 42.367143,
+      "lon": -71.08,
+      "elevation_m": 14.6
+    },
+    {
+      "id": "N_1_1",
+      "row": 1,
+      "col": 1,
+      "lat": 42.367143,
+      "lon": -71.075714,
+      "elevation_m": 15.0
+    },
+    {
+      "id": "N_1_2",
+      "row": 1,
+      "col": 2,
+      "lat": 42.367143,
+      "lon": -71.071429,
+      "elevation_m": 15.1
+    },
+    {
+      "id": "N_1_3",
+      "row": 1,
+      "col": 3,
+      "lat": 42.367143,
+      "lon": -71.067143,
+      "elevation_m": 14.7
+    },
+    {
+      "id": "N_1_4",
+      "row": 1,
+      "col": 4,
+      "lat": 42.367143,
+      "lon": -71.062857,
+      "elevation_m": 14.2
+    },
+    {
+      "id": "N_1_5",
+      "row": 1,
+      "col": 5,
+      "lat": 42.367143,
+      "lon": -71.058571,
+      "elevation_m": 14.1
+    },
+    {
+      "id": "N_1_6",
+      "row": 1,
+      "col": 6,
+      "lat": 42.367143,
+      "lon": -71.054286,
+      "elevation_m": 14.5
+    },
+    {
+      "id": "N_1_7",
+      "row": 1,
+      "col": 7,
+      "lat": 42.367143,
+      "lon": -71.05,
+      "elevation_m": 14.9
+    },
+    {
+      "id": "N_2_0",
+      "row": 2,
+      "col": 0,
+      "lat": 42.364286,
+      "lon": -71.08,
+      "elevation_m": 10.6
+    },
+    {
+      "id": "N_2_1",
+      "row": 2,
+      "col": 1,
+      "lat": 42.364286,
+      "lon": -71.075714,
+      "elevation_m": 11.0
+    },
+    {
+      "id": "N_2_2",
+      "row": 2,
+      "col": 2,
+      "lat": 42.364286,
+      "lon": -71.071429,
+      "elevation_m": 11.1
+    },
+    {
+      "id": "N_2_3",
+      "row": 2,
+      "col": 3,
+      "lat": 42.364286,
+      "lon": -71.067143,
+      "elevation_m": 10.7
+    },
+    {
+      "id": "N_2_4",
+      "row": 2,
+      "col": 4,
+      "lat": 42.364286,
+      "lon": -71.062857,
+      "elevation_m": 10.2
+    },
+    {
+      "id": "N_2_5",
+      "row": 2,
+      "col": 5,
+      "lat": 42.364286,
+      "lon": -71.058571,
+      "elevation_m": 10.1
+    },
+    {
+      "id": "N_2_6",
+      "row": 2,
+      "col": 6,
+      "lat": 42.364286,
+      "lon": -71.054286,
+      "elevation_m": 10.5
+    },
+    {
+      "id": "N_2_7",
+      "row": 2,
+      "col": 7,
+      "lat": 42.364286,
+      "lon": -71.05,
+      "elevation_m": 10.9
+    },
+    {
+      "id": "N_3_0",
+      "row": 3,
+      "col": 0,
+      "lat": 42.361429,
+      "lon": -71.08,
+      "elevation_m": 6.6
+    },
+    {
+      "id": "N_3_1",
+      "row": 3,
+      "col": 1,
+      "lat": 42.361429,
+      "lon": -71.075714,
+      "elevation_m": 7.0
+    },
+    {
+      "id": "N_3_2",
+      "row": 3,
+      "col": 2,
+      "lat": 42.361429,
+      "lon": -71.071429,
+      "elevation_m": 7.1
+    },
+    {
+      "id": "N_3_3",
+      "row": 3,
+      "col": 3,
+      "lat": 42.361429,
+      "lon": -71.067143,
+      "elevation_m": 6.7
+    },
+    {
+      "id": "N_3_4",
+      "row": 3,
+      "col": 4,
+      "lat": 42.361429,
+      "lon": -71.062857,
+      "elevation_m": 6.2
+    },
+    {
+      "id": "N_3_5",
+      "row": 3,
+      "col": 5,
+      "lat": 42.361429,
+      "lon": -71.058571,
+      "elevation_m": 6.1
+    },
+    {
+      "id": "N_3_6",
+      "row": 3,
+      "col": 6,
+      "lat": 42.361429,
+      "lon": -71.054286,
+      "elevation_m": 6.5
+    },
+    {
+      "id": "N_3_7",
+      "row": 3,
+      "col": 7,
+      "lat": 42.361429,
+      "lon": -71.05,
+      "elevation_m": 6.9
+    },
+    {
+      "id": "N_4_0",
+      "row": 4,
+      "col": 0,
+      "lat": 42.358571,
+      "lon": -71.08,
+      "elevation_m": 2.6
+    },
+    {
+      "id": "N_4_1",
+      "row": 4,
+      "col": 1,
+      "lat": 42.358571,
+      "lon": -71.075714,
+      "elevation_m": 3.0
+    },
+    {
+      "id": "N_4_2",
+      "row": 4,
+      "col": 2,
+      "lat": 42.358571,
+      "lon": -71.071429,
+      "elevation_m": 3.1
+    },
+    {
+      "id": "N_4_3",
+      "row": 4,
+      "col": 3,
+      "lat": 42.358571,
+      "lon": -71.067143,
+      "elevation_m": 2.7
+    },
+    {
+      "id": "N_4_4",
+      "row": 4,
+      "col": 4,
+      "lat": 42.358571,
+      "lon": -71.062857,
+      "elevation_m": 2.2
+    },
+    {
+      "id": "N_4_5",
+      "row": 4,
+      "col": 5,
+      "lat": 42.358571,
+      "lon": -71.058571,
+      "elevation_m": 2.1
+    },
+    {
+      "id": "N_4_6",
+      "row": 4,
+      "col": 6,
+      "lat": 42.358571,
+      "lon": -71.054286,
+      "elevation_m": 2.5
+    },
+    {
+      "id": "N_4_7",
+      "row": 4,
+      "col": 7,
+      "lat": 42.358571,
+      "lon": -71.05,
+      "elevation_m": 2.9
+    },
+    {
+      "id": "N_5_0",
+      "row": 5,
+      "col": 0,
+      "lat": 42.355714,
+      "lon": -71.08,
+      "elevation_m": 5.0
+    },
+    {
+      "id": "N_5_1",
+      "row": 5,
+      "col": 1,
+      "lat": 42.355714,
+      "lon": -71.075714,
+      "elevation_m": 5.4
+    },
+    {
+      "id": "N_5_2",
+      "row": 5,
+      "col": 2,
+      "lat": 42.355714,
+      "lon": -71.071429,
+      "elevation_m": 5.5
+    },
+    {
+      "id": "N_5_3",
+      "row": 5,
+      "col": 3,
+      "lat": 42.355714,
+      "lon": -71.067143,
+      "elevation_m": 5.1
+    },
+    {
+      "id": "N_5_4",
+      "row": 5,
+      "col": 4,
+      "lat": 42.355714,
+      "lon": -71.062857,
+      "elevation_m": 4.6
+    },
+    {
+      "id": "N_5_5",
+      "row": 5,
+      "col": 5,
+      "lat": 42.355714,
+      "lon": -71.058571,
+      "elevation_m": 4.5
+    },
+    {
+      "id": "N_5_6",
+      "row": 5,
+      "col": 6,
+      "lat": 42.355714,
+      "lon": -71.054286,
+      "elevation_m": 4.9
+    },
+    {
+      "id": "N_5_7",
+      "row": 5,
+      "col": 7,
+      "lat": 42.355714,
+      "lon": -71.05,
+      "elevation_m": 5.3
+    },
+    {
+      "id": "N_6_0",
+      "row": 6,
+      "col": 0,
+      "lat": 42.352857,
+      "lon": -71.08,
+      "elevation_m": 9.0
+    },
+    {
+      "id": "N_6_1",
+      "row": 6,
+      "col": 1,
+      "lat": 42.352857,
+      "lon": -71.075714,
+      "elevation_m": 9.4
+    },
+    {
+      "id": "N_6_2",
+      "row": 6,
+      "col": 2,
+      "lat": 42.352857,
+      "lon": -71.071429,
+      "elevation_m": 9.5
+    },
+    {
+      "id": "N_6_3",
+      "row": 6,
+      "col": 3,
+      "lat": 42.352857,
+      "lon": -71.067143,
+      "elevation_m": 9.1
+    },
+    {
+      "id": "N_6_4",
+      "row": 6,
+      "col": 4,
+      "lat": 42.352857,
+      "lon": -71.062857,
+      "elevation_m": 8.6
+    },
+    {
+      "id": "N_6_5",
+      "row": 6,
+      "col": 5,
+      "lat": 42.352857,
+      "lon": -71.058571,
+      "elevation_m": 8.5
+    },
+    {
+      "id": "N_6_6",
+      "row": 6,
+      "col": 6,
+      "lat": 42.352857,
+      "lon": -71.054286,
+      "elevation_m": 8.9
+    },
+    {
+      "id": "N_6_7",
+      "row": 6,
+      "col": 7,
+      "lat": 42.352857,
+      "lon": -71.05,
+      "elevation_m": 9.3
+    },
+    {
+      "id": "N_7_0",
+      "row": 7,
+      "col": 0,
+      "lat": 42.35,
+      "lon": -71.08,
+      "elevation_m": 13.0
+    },
+    {
+      "id": "N_7_1",
+      "row": 7,
+      "col": 1,
+      "lat": 42.35,
+      "lon": -71.075714,
+      "elevation_m": 13.4
+    },
+    {
+      "id": "N_7_2",
+      "row": 7,
+      "col": 2,
+      "lat": 42.35,
+      "lon": -71.071429,
+      "elevation_m": 13.5
+    },
+    {
+      "id": "N_7_3",
+      "row": 7,
+      "col": 3,
+      "lat": 42.35,
+      "lon": -71.067143,
+      "elevation_m": 13.1
+    },
+    {
+      "id": "N_7_4",
+      "row": 7,
+      "col": 4,
+      "lat": 42.35,
+      "lon": -71.062857,
+      "elevation_m": 12.6
+    },
+    {
+      "id": "N_7_5",
+      "row": 7,
+      "col": 5,
+      "lat": 42.35,
+      "lon": -71.058571,
+      "elevation_m": 12.5
+    },
+    {
+      "id": "N_7_6",
+      "row": 7,
+      "col": 6,
+      "lat": 42.35,
+      "lon": -71.054286,
+      "elevation_m": 12.9
+    },
+    {
+      "id": "N_7_7",
+      "row": 7,
+      "col": 7,
+      "lat": 42.35,
+      "lon": -71.05,
+      "elevation_m": 13.3
+    }
+  ],
+  "edges": [
+    {
+      "id": "E_001",
+      "source": "N_0_0",
+      "target": "N_0_1",
+      "name": "Uptown Heights Blvd Blk 1",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_002",
+      "source": "N_0_1",
+      "target": "N_0_0",
+      "name": "Uptown Heights Blvd Blk 1 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_003",
+      "source": "N_0_1",
+      "target": "N_0_2",
+      "name": "Uptown Heights Blvd Blk 2",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_004",
+      "source": "N_0_2",
+      "target": "N_0_1",
+      "name": "Uptown Heights Blvd Blk 2 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_005",
+      "source": "N_0_2",
+      "target": "N_0_3",
+      "name": "Uptown Heights Blvd Blk 3",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_006",
+      "source": "N_0_3",
+      "target": "N_0_2",
+      "name": "Uptown Heights Blvd Blk 3 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_007",
+      "source": "N_0_3",
+      "target": "N_0_4",
+      "name": "Uptown Heights Blvd Blk 4",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_008",
+      "source": "N_0_4",
+      "target": "N_0_3",
+      "name": "Uptown Heights Blvd Blk 4 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_009",
+      "source": "N_0_4",
+      "target": "N_0_5",
+      "name": "Uptown Heights Blvd Blk 5",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_010",
+      "source": "N_0_5",
+      "target": "N_0_4",
+      "name": "Uptown Heights Blvd Blk 5 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_011",
+      "source": "N_0_5",
+      "target": "N_0_6",
+      "name": "Uptown Heights Blvd Blk 6",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_012",
+      "source": "N_0_6",
+      "target": "N_0_5",
+      "name": "Uptown Heights Blvd Blk 6 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_013",
+      "source": "N_0_6",
+      "target": "N_0_7",
+      "name": "Uptown Heights Blvd Blk 7",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_014",
+      "source": "N_0_7",
+      "target": "N_0_6",
+      "name": "Uptown Heights Blvd Blk 7 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_015",
+      "source": "N_1_0",
+      "target": "N_1_1",
+      "name": "Broad Canal St Blk 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_016",
+      "source": "N_1_1",
+      "target": "N_1_0",
+      "name": "Broad Canal St Blk 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_017",
+      "source": "N_1_1",
+      "target": "N_1_2",
+      "name": "Broad Canal St Blk 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_018",
+      "source": "N_1_2",
+      "target": "N_1_1",
+      "name": "Broad Canal St Blk 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_019",
+      "source": "N_1_2",
+      "target": "N_1_3",
+      "name": "Broad Canal St Blk 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_020",
+      "source": "N_1_3",
+      "target": "N_1_2",
+      "name": "Broad Canal St Blk 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_021",
+      "source": "N_1_3",
+      "target": "N_1_4",
+      "name": "Broad Canal St Blk 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_022",
+      "source": "N_1_4",
+      "target": "N_1_3",
+      "name": "Broad Canal St Blk 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_023",
+      "source": "N_1_4",
+      "target": "N_1_5",
+      "name": "Broad Canal St Blk 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_024",
+      "source": "N_1_5",
+      "target": "N_1_4",
+      "name": "Broad Canal St Blk 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_025",
+      "source": "N_1_5",
+      "target": "N_1_6",
+      "name": "Broad Canal St Blk 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_026",
+      "source": "N_1_6",
+      "target": "N_1_5",
+      "name": "Broad Canal St Blk 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_027",
+      "source": "N_1_6",
+      "target": "N_1_7",
+      "name": "Broad Canal St Blk 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_028",
+      "source": "N_1_7",
+      "target": "N_1_6",
+      "name": "Broad Canal St Blk 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_029",
+      "source": "N_2_0",
+      "target": "N_2_1",
+      "name": "North Station Way Blk 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_030",
+      "source": "N_2_1",
+      "target": "N_2_0",
+      "name": "North Station Way Blk 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_031",
+      "source": "N_2_1",
+      "target": "N_2_2",
+      "name": "North Station Way Blk 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_032",
+      "source": "N_2_2",
+      "target": "N_2_1",
+      "name": "North Station Way Blk 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_033",
+      "source": "N_2_2",
+      "target": "N_2_3",
+      "name": "North Station Way Blk 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_034",
+      "source": "N_2_3",
+      "target": "N_2_2",
+      "name": "North Station Way Blk 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_035",
+      "source": "N_2_3",
+      "target": "N_2_4",
+      "name": "North Station Way Blk 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_036",
+      "source": "N_2_4",
+      "target": "N_2_3",
+      "name": "North Station Way Blk 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_037",
+      "source": "N_2_4",
+      "target": "N_2_5",
+      "name": "North Station Way Blk 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_038",
+      "source": "N_2_5",
+      "target": "N_2_4",
+      "name": "North Station Way Blk 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_039",
+      "source": "N_2_5",
+      "target": "N_2_6",
+      "name": "North Station Way Blk 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_040",
+      "source": "N_2_6",
+      "target": "N_2_5",
+      "name": "North Station Way Blk 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_041",
+      "source": "N_2_6",
+      "target": "N_2_7",
+      "name": "North Station Way Blk 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_042",
+      "source": "N_2_7",
+      "target": "N_2_6",
+      "name": "North Station Way Blk 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_043",
+      "source": "N_3_0",
+      "target": "N_3_1",
+      "name": "Commercial Parkway Blk 1",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_044",
+      "source": "N_3_1",
+      "target": "N_3_0",
+      "name": "Commercial Parkway Blk 1 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_045",
+      "source": "N_3_1",
+      "target": "N_3_2",
+      "name": "Commercial Parkway Blk 2",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_046",
+      "source": "N_3_2",
+      "target": "N_3_1",
+      "name": "Commercial Parkway Blk 2 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_047",
+      "source": "N_3_2",
+      "target": "N_3_3",
+      "name": "Commercial Parkway Blk 3",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_048",
+      "source": "N_3_3",
+      "target": "N_3_2",
+      "name": "Commercial Parkway Blk 3 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_049",
+      "source": "N_3_3",
+      "target": "N_3_4",
+      "name": "Commercial Parkway Blk 4",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_050",
+      "source": "N_3_4",
+      "target": "N_3_3",
+      "name": "Commercial Parkway Blk 4 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_051",
+      "source": "N_3_4",
+      "target": "N_3_5",
+      "name": "Commercial Parkway Blk 5",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_052",
+      "source": "N_3_5",
+      "target": "N_3_4",
+      "name": "Commercial Parkway Blk 5 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_053",
+      "source": "N_3_5",
+      "target": "N_3_6",
+      "name": "Commercial Parkway Blk 6",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_054",
+      "source": "N_3_6",
+      "target": "N_3_5",
+      "name": "Commercial Parkway Blk 6 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_055",
+      "source": "N_3_6",
+      "target": "N_3_7",
+      "name": "Commercial Parkway Blk 7",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_056",
+      "source": "N_3_7",
+      "target": "N_3_6",
+      "name": "Commercial Parkway Blk 7 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_057",
+      "source": "N_4_0",
+      "target": "N_4_1",
+      "name": "Riverfront Esplanade Blk 1",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_058",
+      "source": "N_4_1",
+      "target": "N_4_0",
+      "name": "Riverfront Esplanade Blk 1 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_059",
+      "source": "N_4_1",
+      "target": "N_4_2",
+      "name": "Riverfront Esplanade Blk 2",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_060",
+      "source": "N_4_2",
+      "target": "N_4_1",
+      "name": "Riverfront Esplanade Blk 2 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_061",
+      "source": "N_4_2",
+      "target": "N_4_3",
+      "name": "Riverfront Esplanade Blk 3",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_062",
+      "source": "N_4_3",
+      "target": "N_4_2",
+      "name": "Riverfront Esplanade Blk 3 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_063",
+      "source": "N_4_3",
+      "target": "N_4_4",
+      "name": "Riverfront Esplanade Blk 4",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_064",
+      "source": "N_4_4",
+      "target": "N_4_3",
+      "name": "Riverfront Esplanade Blk 4 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_065",
+      "source": "N_4_4",
+      "target": "N_4_5",
+      "name": "Riverfront Esplanade Blk 5",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_066",
+      "source": "N_4_5",
+      "target": "N_4_4",
+      "name": "Riverfront Esplanade Blk 5 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_067",
+      "source": "N_4_5",
+      "target": "N_4_6",
+      "name": "Riverfront Esplanade Blk 6",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_068",
+      "source": "N_4_6",
+      "target": "N_4_5",
+      "name": "Riverfront Esplanade Blk 6 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_069",
+      "source": "N_4_6",
+      "target": "N_4_7",
+      "name": "Riverfront Esplanade Blk 7",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_070",
+      "source": "N_4_7",
+      "target": "N_4_6",
+      "name": "Riverfront Esplanade Blk 7 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_071",
+      "source": "N_5_0",
+      "target": "N_5_1",
+      "name": "Industrial South Rd Blk 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_072",
+      "source": "N_5_1",
+      "target": "N_5_0",
+      "name": "Industrial South Rd Blk 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_073",
+      "source": "N_5_1",
+      "target": "N_5_2",
+      "name": "Industrial South Rd Blk 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_074",
+      "source": "N_5_2",
+      "target": "N_5_1",
+      "name": "Industrial South Rd Blk 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_075",
+      "source": "N_5_2",
+      "target": "N_5_3",
+      "name": "Industrial South Rd Blk 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_076",
+      "source": "N_5_3",
+      "target": "N_5_2",
+      "name": "Industrial South Rd Blk 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_077",
+      "source": "N_5_3",
+      "target": "N_5_4",
+      "name": "Industrial South Rd Blk 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_078",
+      "source": "N_5_4",
+      "target": "N_5_3",
+      "name": "Industrial South Rd Blk 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_079",
+      "source": "N_5_4",
+      "target": "N_5_5",
+      "name": "Industrial South Rd Blk 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_080",
+      "source": "N_5_5",
+      "target": "N_5_4",
+      "name": "Industrial South Rd Blk 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_081",
+      "source": "N_5_5",
+      "target": "N_5_6",
+      "name": "Industrial South Rd Blk 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_082",
+      "source": "N_5_6",
+      "target": "N_5_5",
+      "name": "Industrial South Rd Blk 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_083",
+      "source": "N_5_6",
+      "target": "N_5_7",
+      "name": "Industrial South Rd Blk 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_084",
+      "source": "N_5_7",
+      "target": "N_5_6",
+      "name": "Industrial South Rd Blk 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_085",
+      "source": "N_6_0",
+      "target": "N_6_1",
+      "name": "Harbor View Way Blk 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_086",
+      "source": "N_6_1",
+      "target": "N_6_0",
+      "name": "Harbor View Way Blk 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_087",
+      "source": "N_6_1",
+      "target": "N_6_2",
+      "name": "Harbor View Way Blk 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_088",
+      "source": "N_6_2",
+      "target": "N_6_1",
+      "name": "Harbor View Way Blk 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_089",
+      "source": "N_6_2",
+      "target": "N_6_3",
+      "name": "Harbor View Way Blk 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_090",
+      "source": "N_6_3",
+      "target": "N_6_2",
+      "name": "Harbor View Way Blk 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_091",
+      "source": "N_6_3",
+      "target": "N_6_4",
+      "name": "Harbor View Way Blk 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_092",
+      "source": "N_6_4",
+      "target": "N_6_3",
+      "name": "Harbor View Way Blk 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_093",
+      "source": "N_6_4",
+      "target": "N_6_5",
+      "name": "Harbor View Way Blk 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_094",
+      "source": "N_6_5",
+      "target": "N_6_4",
+      "name": "Harbor View Way Blk 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_095",
+      "source": "N_6_5",
+      "target": "N_6_6",
+      "name": "Harbor View Way Blk 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_096",
+      "source": "N_6_6",
+      "target": "N_6_5",
+      "name": "Harbor View Way Blk 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_097",
+      "source": "N_6_6",
+      "target": "N_6_7",
+      "name": "Harbor View Way Blk 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_098",
+      "source": "N_6_7",
+      "target": "N_6_6",
+      "name": "Harbor View Way Blk 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_099",
+      "source": "N_7_0",
+      "target": "N_7_1",
+      "name": "Valley Express Hwy Blk 1",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_100",
+      "source": "N_7_1",
+      "target": "N_7_0",
+      "name": "Valley Express Hwy Blk 1 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_101",
+      "source": "N_7_1",
+      "target": "N_7_2",
+      "name": "Valley Express Hwy Blk 2",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_102",
+      "source": "N_7_2",
+      "target": "N_7_1",
+      "name": "Valley Express Hwy Blk 2 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_103",
+      "source": "N_7_2",
+      "target": "N_7_3",
+      "name": "Valley Express Hwy Blk 3",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_104",
+      "source": "N_7_3",
+      "target": "N_7_2",
+      "name": "Valley Express Hwy Blk 3 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_105",
+      "source": "N_7_3",
+      "target": "N_7_4",
+      "name": "Valley Express Hwy Blk 4",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_106",
+      "source": "N_7_4",
+      "target": "N_7_3",
+      "name": "Valley Express Hwy Blk 4 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_107",
+      "source": "N_7_4",
+      "target": "N_7_5",
+      "name": "Valley Express Hwy Blk 5",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_108",
+      "source": "N_7_5",
+      "target": "N_7_4",
+      "name": "Valley Express Hwy Blk 5 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_109",
+      "source": "N_7_5",
+      "target": "N_7_6",
+      "name": "Valley Express Hwy Blk 6",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_110",
+      "source": "N_7_6",
+      "target": "N_7_5",
+      "name": "Valley Express Hwy Blk 6 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.1,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_111",
+      "source": "N_7_6",
+      "target": "N_7_7",
+      "name": "Valley Express Hwy Blk 7",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_112",
+      "source": "N_7_7",
+      "target": "N_7_6",
+      "name": "Valley Express Hwy Blk 7 (Rev)",
+      "road_class": "motorway",
+      "speed_limit_kmh": 70,
+      "length_m": 353.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_113",
+      "source": "N_0_0",
+      "target": "N_1_0",
+      "name": "West End Ave Seg 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_114",
+      "source": "N_1_0",
+      "target": "N_0_0",
+      "name": "West End Ave Seg 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_115",
+      "source": "N_1_0",
+      "target": "N_2_0",
+      "name": "West End Ave Seg 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_116",
+      "source": "N_2_0",
+      "target": "N_1_0",
+      "name": "West End Ave Seg 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_117",
+      "source": "N_2_0",
+      "target": "N_3_0",
+      "name": "West End Ave Seg 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_118",
+      "source": "N_3_0",
+      "target": "N_2_0",
+      "name": "West End Ave Seg 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_119",
+      "source": "N_3_0",
+      "target": "N_4_0",
+      "name": "West End Ave Seg 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_120",
+      "source": "N_4_0",
+      "target": "N_3_0",
+      "name": "West End Ave Seg 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_121",
+      "source": "N_4_0",
+      "target": "N_5_0",
+      "name": "West End Ave Seg 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_122",
+      "source": "N_5_0",
+      "target": "N_4_0",
+      "name": "West End Ave Seg 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_123",
+      "source": "N_5_0",
+      "target": "N_6_0",
+      "name": "West End Ave Seg 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_124",
+      "source": "N_6_0",
+      "target": "N_5_0",
+      "name": "West End Ave Seg 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_125",
+      "source": "N_6_0",
+      "target": "N_7_0",
+      "name": "West End Ave Seg 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_126",
+      "source": "N_7_0",
+      "target": "N_6_0",
+      "name": "West End Ave Seg 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.08
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.08
+        }
+      ]
+    },
+    {
+      "id": "E_127",
+      "source": "N_0_1",
+      "target": "N_1_1",
+      "name": "Medical Way Seg 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_128",
+      "source": "N_1_1",
+      "target": "N_0_1",
+      "name": "Medical Way Seg 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_129",
+      "source": "N_1_1",
+      "target": "N_2_1",
+      "name": "Medical Way Seg 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_130",
+      "source": "N_2_1",
+      "target": "N_1_1",
+      "name": "Medical Way Seg 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_131",
+      "source": "N_2_1",
+      "target": "N_3_1",
+      "name": "Medical Way Seg 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_132",
+      "source": "N_3_1",
+      "target": "N_2_1",
+      "name": "Medical Way Seg 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_133",
+      "source": "N_3_1",
+      "target": "N_4_1",
+      "name": "Medical Way Seg 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_134",
+      "source": "N_4_1",
+      "target": "N_3_1",
+      "name": "Medical Way Seg 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_135",
+      "source": "N_4_1",
+      "target": "N_5_1",
+      "name": "Medical Way Memorial Bridge",
+      "road_class": "bridge",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_136",
+      "source": "N_5_1",
+      "target": "N_4_1",
+      "name": "Medical Way Memorial Bridge (Rev)",
+      "road_class": "bridge",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_137",
+      "source": "N_5_1",
+      "target": "N_6_1",
+      "name": "Medical Way Seg 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_138",
+      "source": "N_6_1",
+      "target": "N_5_1",
+      "name": "Medical Way Seg 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_139",
+      "source": "N_6_1",
+      "target": "N_7_1",
+      "name": "Medical Way Seg 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_140",
+      "source": "N_7_1",
+      "target": "N_6_1",
+      "name": "Medical Way Seg 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.075714
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.075714
+        }
+      ]
+    },
+    {
+      "id": "E_141",
+      "source": "N_0_2",
+      "target": "N_1_2",
+      "name": "State Parkway Seg 1",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_142",
+      "source": "N_1_2",
+      "target": "N_0_2",
+      "name": "State Parkway Seg 1 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_143",
+      "source": "N_1_2",
+      "target": "N_2_2",
+      "name": "State Parkway Seg 2",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_144",
+      "source": "N_2_2",
+      "target": "N_1_2",
+      "name": "State Parkway Seg 2 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_145",
+      "source": "N_2_2",
+      "target": "N_3_2",
+      "name": "State Parkway Seg 3",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_146",
+      "source": "N_3_2",
+      "target": "N_2_2",
+      "name": "State Parkway Seg 3 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_147",
+      "source": "N_3_2",
+      "target": "N_4_2",
+      "name": "State Parkway Seg 4",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_148",
+      "source": "N_4_2",
+      "target": "N_3_2",
+      "name": "State Parkway Seg 4 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_149",
+      "source": "N_4_2",
+      "target": "N_5_2",
+      "name": "State Parkway Seg 5",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_150",
+      "source": "N_5_2",
+      "target": "N_4_2",
+      "name": "State Parkway Seg 5 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_151",
+      "source": "N_5_2",
+      "target": "N_6_2",
+      "name": "State Parkway Seg 6",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_152",
+      "source": "N_6_2",
+      "target": "N_5_2",
+      "name": "State Parkway Seg 6 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_153",
+      "source": "N_6_2",
+      "target": "N_7_2",
+      "name": "State Parkway Seg 7",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_154",
+      "source": "N_7_2",
+      "target": "N_6_2",
+      "name": "State Parkway Seg 7 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.071429
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.071429
+        }
+      ]
+    },
+    {
+      "id": "E_155",
+      "source": "N_0_3",
+      "target": "N_1_3",
+      "name": "Central Bridge Blvd Seg 1",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_156",
+      "source": "N_1_3",
+      "target": "N_0_3",
+      "name": "Central Bridge Blvd Seg 1 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_157",
+      "source": "N_1_3",
+      "target": "N_2_3",
+      "name": "Central Bridge Blvd Seg 2",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_158",
+      "source": "N_2_3",
+      "target": "N_1_3",
+      "name": "Central Bridge Blvd Seg 2 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_159",
+      "source": "N_2_3",
+      "target": "N_3_3",
+      "name": "Central Bridge Blvd Seg 3",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_160",
+      "source": "N_3_3",
+      "target": "N_2_3",
+      "name": "Central Bridge Blvd Seg 3 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_161",
+      "source": "N_3_3",
+      "target": "N_4_3",
+      "name": "Central Bridge Blvd Seg 4",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_162",
+      "source": "N_4_3",
+      "target": "N_3_3",
+      "name": "Central Bridge Blvd Seg 4 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_163",
+      "source": "N_4_3",
+      "target": "N_5_3",
+      "name": "Central Bridge Blvd Memorial Bridge",
+      "road_class": "bridge",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_164",
+      "source": "N_5_3",
+      "target": "N_4_3",
+      "name": "Central Bridge Blvd Memorial Bridge (Rev)",
+      "road_class": "bridge",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_165",
+      "source": "N_5_3",
+      "target": "N_6_3",
+      "name": "Central Bridge Blvd Seg 6",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_166",
+      "source": "N_6_3",
+      "target": "N_5_3",
+      "name": "Central Bridge Blvd Seg 6 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_167",
+      "source": "N_6_3",
+      "target": "N_7_3",
+      "name": "Central Bridge Blvd Seg 7",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_168",
+      "source": "N_7_3",
+      "target": "N_6_3",
+      "name": "Central Bridge Blvd Seg 7 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.067143
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.067143
+        }
+      ]
+    },
+    {
+      "id": "E_169",
+      "source": "N_0_4",
+      "target": "N_1_4",
+      "name": "Civic Center St Seg 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_170",
+      "source": "N_1_4",
+      "target": "N_0_4",
+      "name": "Civic Center St Seg 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_171",
+      "source": "N_1_4",
+      "target": "N_2_4",
+      "name": "Civic Center St Seg 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_172",
+      "source": "N_2_4",
+      "target": "N_1_4",
+      "name": "Civic Center St Seg 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_173",
+      "source": "N_2_4",
+      "target": "N_3_4",
+      "name": "Civic Center St Seg 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_174",
+      "source": "N_3_4",
+      "target": "N_2_4",
+      "name": "Civic Center St Seg 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_175",
+      "source": "N_3_4",
+      "target": "N_4_4",
+      "name": "Civic Center St Seg 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_176",
+      "source": "N_4_4",
+      "target": "N_3_4",
+      "name": "Civic Center St Seg 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_177",
+      "source": "N_4_4",
+      "target": "N_5_4",
+      "name": "Civic Center St Seg 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_178",
+      "source": "N_5_4",
+      "target": "N_4_4",
+      "name": "Civic Center St Seg 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_179",
+      "source": "N_5_4",
+      "target": "N_6_4",
+      "name": "Civic Center St Seg 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_180",
+      "source": "N_6_4",
+      "target": "N_5_4",
+      "name": "Civic Center St Seg 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_181",
+      "source": "N_6_4",
+      "target": "N_7_4",
+      "name": "Civic Center St Seg 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_182",
+      "source": "N_7_4",
+      "target": "N_6_4",
+      "name": "Civic Center St Seg 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.062857
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.062857
+        }
+      ]
+    },
+    {
+      "id": "E_183",
+      "source": "N_0_5",
+      "target": "N_1_5",
+      "name": "East Pier Rd Seg 1",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_184",
+      "source": "N_1_5",
+      "target": "N_0_5",
+      "name": "East Pier Rd Seg 1 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_185",
+      "source": "N_1_5",
+      "target": "N_2_5",
+      "name": "East Pier Rd Seg 2",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_186",
+      "source": "N_2_5",
+      "target": "N_1_5",
+      "name": "East Pier Rd Seg 2 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_187",
+      "source": "N_2_5",
+      "target": "N_3_5",
+      "name": "East Pier Rd Seg 3",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_188",
+      "source": "N_3_5",
+      "target": "N_2_5",
+      "name": "East Pier Rd Seg 3 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_189",
+      "source": "N_3_5",
+      "target": "N_4_5",
+      "name": "East Pier Rd Seg 4",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_190",
+      "source": "N_4_5",
+      "target": "N_3_5",
+      "name": "East Pier Rd Seg 4 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_191",
+      "source": "N_4_5",
+      "target": "N_5_5",
+      "name": "East Pier Rd Memorial Bridge",
+      "road_class": "bridge",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_192",
+      "source": "N_5_5",
+      "target": "N_4_5",
+      "name": "East Pier Rd Memorial Bridge (Rev)",
+      "road_class": "bridge",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_193",
+      "source": "N_5_5",
+      "target": "N_6_5",
+      "name": "East Pier Rd Seg 6",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_194",
+      "source": "N_6_5",
+      "target": "N_5_5",
+      "name": "East Pier Rd Seg 6 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_195",
+      "source": "N_6_5",
+      "target": "N_7_5",
+      "name": "East Pier Rd Seg 7",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_196",
+      "source": "N_7_5",
+      "target": "N_6_5",
+      "name": "East Pier Rd Seg 7 (Rev)",
+      "road_class": "primary",
+      "speed_limit_kmh": 50,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.058571
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.058571
+        }
+      ]
+    },
+    {
+      "id": "E_197",
+      "source": "N_0_6",
+      "target": "N_1_6",
+      "name": "Marina Approach Seg 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_198",
+      "source": "N_1_6",
+      "target": "N_0_6",
+      "name": "Marina Approach Seg 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_199",
+      "source": "N_1_6",
+      "target": "N_2_6",
+      "name": "Marina Approach Seg 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_200",
+      "source": "N_2_6",
+      "target": "N_1_6",
+      "name": "Marina Approach Seg 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_201",
+      "source": "N_2_6",
+      "target": "N_3_6",
+      "name": "Marina Approach Seg 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_202",
+      "source": "N_3_6",
+      "target": "N_2_6",
+      "name": "Marina Approach Seg 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_203",
+      "source": "N_3_6",
+      "target": "N_4_6",
+      "name": "Marina Approach Seg 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_204",
+      "source": "N_4_6",
+      "target": "N_3_6",
+      "name": "Marina Approach Seg 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_205",
+      "source": "N_4_6",
+      "target": "N_5_6",
+      "name": "Marina Approach Seg 5",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_206",
+      "source": "N_5_6",
+      "target": "N_4_6",
+      "name": "Marina Approach Seg 5 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_207",
+      "source": "N_5_6",
+      "target": "N_6_6",
+      "name": "Marina Approach Seg 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_208",
+      "source": "N_6_6",
+      "target": "N_5_6",
+      "name": "Marina Approach Seg 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_209",
+      "source": "N_6_6",
+      "target": "N_7_6",
+      "name": "Marina Approach Seg 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_210",
+      "source": "N_7_6",
+      "target": "N_6_6",
+      "name": "Marina Approach Seg 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.054286
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.054286
+        }
+      ]
+    },
+    {
+      "id": "E_211",
+      "source": "N_0_7",
+      "target": "N_1_7",
+      "name": "Eastway Bypass Seg 1",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.37,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_212",
+      "source": "N_1_7",
+      "target": "N_0_7",
+      "name": "Eastway Bypass Seg 1 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.37,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_213",
+      "source": "N_1_7",
+      "target": "N_2_7",
+      "name": "Eastway Bypass Seg 2",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_214",
+      "source": "N_2_7",
+      "target": "N_1_7",
+      "name": "Eastway Bypass Seg 2 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.367143,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_215",
+      "source": "N_2_7",
+      "target": "N_3_7",
+      "name": "Eastway Bypass Seg 3",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_216",
+      "source": "N_3_7",
+      "target": "N_2_7",
+      "name": "Eastway Bypass Seg 3 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.364286,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_217",
+      "source": "N_3_7",
+      "target": "N_4_7",
+      "name": "Eastway Bypass Seg 4",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_218",
+      "source": "N_4_7",
+      "target": "N_3_7",
+      "name": "Eastway Bypass Seg 4 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.2,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.361429,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_219",
+      "source": "N_4_7",
+      "target": "N_5_7",
+      "name": "Eastway Bypass Memorial Bridge",
+      "road_class": "bridge",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_220",
+      "source": "N_5_7",
+      "target": "N_4_7",
+      "name": "Eastway Bypass Memorial Bridge (Rev)",
+      "road_class": "bridge",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": true,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.358571,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_221",
+      "source": "N_5_7",
+      "target": "N_6_7",
+      "name": "Eastway Bypass Seg 6",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_222",
+      "source": "N_6_7",
+      "target": "N_5_7",
+      "name": "Eastway Bypass Seg 6 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.355714,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_223",
+      "source": "N_6_7",
+      "target": "N_7_7",
+      "name": "Eastway Bypass Seg 7",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.35,
+          "lon": -71.05
+        }
+      ]
+    },
+    {
+      "id": "E_224",
+      "source": "N_7_7",
+      "target": "N_6_7",
+      "name": "Eastway Bypass Seg 7 (Rev)",
+      "road_class": "secondary",
+      "speed_limit_kmh": 35,
+      "length_m": 318.0,
+      "is_bridge": false,
+      "geometry": [
+        {
+          "lat": 42.35,
+          "lon": -71.05
+        },
+        {
+          "lat": 42.352857,
+          "lon": -71.05
+        }
+      ]
+    }
+  ],
+  "facilities": {
+    "hospitals": [
+      {
+        "id": "HOSP_1",
+        "name": "St. Jude Metro Trauma Center",
+        "lat": 42.367143,
+        "lon": -71.075714,
+        "node_id": "N_1_1",
+        "capacity": 50,
+        "helipad": true
+      },
+      {
+        "id": "HOSP_2",
+        "name": "Central District Hospital",
+        "lat": 42.364286,
+        "lon": -71.062857,
+        "node_id": "N_2_4",
+        "capacity": 35,
+        "helipad": false
+      },
+      {
+        "id": "HOSP_3",
+        "name": "Valley Memorial Care",
+        "lat": 42.352857,
+        "lon": -71.071429,
+        "node_id": "N_6_2",
+        "capacity": 25,
+        "helipad": true
+      }
+    ],
+    "depots": [
+      {
+        "id": "DEPOT_1",
+        "name": "Central Fire & Rescue HQ",
+        "lat": 42.364286,
+        "lon": -71.071429,
+        "node_id": "N_2_2",
+        "ambulances": 4,
+        "boats": 0
+      },
+      {
+        "id": "DEPOT_2",
+        "name": "North Division Firehouse",
+        "lat": 42.37,
+        "lon": -71.062857,
+        "node_id": "N_0_4",
+        "ambulances": 3,
+        "boats": 0
+      },
+      {
+        "id": "DEPOT_3",
+        "name": "River Marine Station",
+        "lat": 42.358571,
+        "lon": -71.075714,
+        "node_id": "N_4_1",
+        "ambulances": 1,
+        "boats": 3
+      }
+    ],
+    "boat_handoffs": [
+      {
+        "id": "DOCK_1",
+        "name": "Marina Handoff Dock Alpha",
+        "lat": 42.358571,
+        "lon": -71.075714,
+        "node_id": "N_4_1",
+        "capacity": 4,
+        "has_ambulance_ramp": true
+      },
+      {
+        "id": "DOCK_2",
+        "name": "East Pier Rescue Ramp Beta",
+        "lat": 42.358571,
+        "lon": -71.054286,
+        "node_id": "N_4_6",
+        "capacity": 4,
+        "has_ambulance_ramp": true
+      }
+    ]
+  },
+  "hydrology": {
+    "name": "Charles-Metro River",
+    "baseline_stage_m": 1.2,
+    "flood_stage_m": 3.5,
+    "critical_stage_m": 5.0,
+    "centerline": [
+      {
+        "lat": 42.359071,
+        "lon": -71.08
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.075714
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.071429
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.067143
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.062857
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.058571
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.054286
+      },
+      {
+        "lat": 42.359071,
+        "lon": -71.05
+      }
+    ]
+  }
+}

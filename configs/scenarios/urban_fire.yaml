@@ -1,0 +1,14 @@
+scenario_name: "Urban Industrial Fire"
+disaster_type: "urban_fire"
+seed: 202
+duration_steps: 120
+fire_spread_speed: 1.2
+rainfall_initial_mmh: 0.0
+wind_speed_initial_kmh: 55.0
+call_arrival_poisson_lambda: 0.45
+focus_zone: "zone_central"
+bridge_failure_probability_per_step: 0.005
+road_blockage_probability_per_step: 0.06
+fleet:
+  ambulances: 6
+  boats: 2

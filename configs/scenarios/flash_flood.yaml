@@ -1,0 +1,15 @@
+scenario_name: "Flash Flood Emergency"
+disaster_type: "flash_flood"
+seed: 101
+duration_steps: 120
+flood_surge_speed: 1.5
+rainfall_initial_mmh: 65.0
+wind_speed_initial_kmh: 40.0
+call_arrival_poisson_lambda: 0.5
+focus_zone: "zone_riverfront"
+river_overflow_step: 10
+bridge_failure_probability_per_step: 0.03
+road_blockage_probability_per_step: 0.03
+fleet:
+  ambulances: 5
+  boats: 3

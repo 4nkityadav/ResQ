@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-11-17 18:07:07",
+  "dispatch": {
+    "Random": {
+      "mean_cost": 2995.39,
+      "std_cost": 548.11,
+      "ci95_cost": 196.14,
+      "mean_time_ms": 0.45
+    },
+    "Greedy_NN": {
+      "mean_cost": 9409.38,
+      "std_cost": 2345.31,
+      "ci95_cost": 839.26,
+      "mean_time_ms": 0.15
+    },
+    "Clarke_Wright": {
+      "mean_cost": 2277.68,
+      "std_cost": 445.5,
+      "ci95_cost": 159.42,
+      "mean_time_ms": 0.25
+    },
+    "Simulated_Annealing": {
+      "mean_cost": 1409.67,
+      "std_cost": 206.28,
+      "ci95_cost": 73.82,
+      "mean_time_ms": 29.44
+    },
+    "ALNS": {
+      "mean_cost": 1049.99,
+      "std_cost": 145.69,
+      "ci95_cost": 52.13,
+      "mean_time_ms": 253.23
+    },
+    "tests": {
+      "alns_vs_greedy_p_value": 9.71209133658762e-19,
+      "alns_vs_greedy_t_stat": -20.390716461684757,
+      "sa_vs_greedy_p_value": 2.7019961470700803e-18,
+      "sa_vs_greedy_t_stat": -19.635291735353547
+    }
+  },
+  "dstar": {
+    "trials": 100,
+    "dstar_mean_time_ms": 10.247,
+    "astar_mean_time_ms": 37.645,
+    "dstar_speedup_factor": 3.67,
+    "mean_optimality_gap_pct": 0.0,
+    "dstar_mean_expansions": 22.6,
+    "astar_mean_expansions": 1375.2
+  },
+  "hmm": {
+    "sequence_length": 200,
+    "classification_accuracy": 100.0,
+    "brier_score": 0.0,
+    "forecast_latency_microseconds": 31.57
+  },
+  "orchestrator_latency": {
+    "mean_step_latency_ms": 118.22,
+    "p95_step_latency_ms": 525.15,
+    "nlp_dispatch_latency_ms": 38.72,
+    "strictly_under_100ms": false
+  }
+}

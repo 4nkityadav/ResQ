@@ -1,0 +1,235 @@
+description: "ResQ-AI 10-node Bayesian Network CPT definitions for disaster triage"
+nodes:
+  - name: "BuildingAge"
+    states: ["Old", "Moderate", "New"]
+    parents: []
+    cpt:
+      - states: []
+        probs: [0.40, 0.40, 0.20]
+
+  - name: "ConstructionType"
+    states: ["Wood", "Masonry", "ReinforcedConcrete"]
+    parents: []
+    cpt:
+      - states: []
+        probs: [0.25, 0.50, 0.25]
+
+  - name: "HazardState"
+    states: ["Safe", "Advisory", "Critical", "Evacuate"]
+    parents: []
+    cpt:
+      - states: []
+        probs: [0.60, 0.25, 0.10, 0.05]
+
+  - name: "OccupantType"
+    states: ["Elderly", "Children", "Adults"]
+    parents: []
+    cpt:
+      - states: []
+        probs: [0.30, 0.30, 0.40]
+
+  - name: "FloodLevel"
+    states: ["Low", "Moderate", "High"]
+    parents: ["HazardState"]
+    cpt:
+      - states: ["Safe"]
+        probs: [0.82, 0.15, 0.03]
+      - states: ["Advisory"]
+        probs: [0.30, 0.55, 0.15]
+      - states: ["Critical"]
+        probs: [0.08, 0.42, 0.50]
+      - states: ["Evacuate"]
+        probs: [0.02, 0.18, 0.80]
+
+  - name: "FirePresent"
+    states: ["False", "True"]
+    parents: ["HazardState"]
+    cpt:
+      - states: ["Safe"]
+        probs: [0.96, 0.04]
+      - states: ["Advisory"]
+        probs: [0.88, 0.12]
+      - states: ["Critical"]
+        probs: [0.75, 0.25]
+      - states: ["Evacuate"]
+        probs: [0.60, 0.40]
+
+  - name: "StructuralCollapse"
+    states: ["False", "True"]
+    parents: ["BuildingAge", "ConstructionType", "FloodLevel"]
+    cpt:
+      # Format: [BuildingAge, ConstructionType, FloodLevel] -> [False, True]
+      # Old, Wood
+      - states: ["Old", "Wood", "Low"]
+        probs: [0.88, 0.12]
+      - states: ["Old", "Wood", "Moderate"]
+        probs: [0.55, 0.45]
+      - states: ["Old", "Wood", "High"]
+        probs: [0.15, 0.85]
+      # Old, Masonry
+      - states: ["Old", "Masonry", "Low"]
+        probs: [0.92, 0.08]
+      - states: ["Old", "Masonry", "Moderate"]
+        probs: [0.65, 0.35]
+      - states: ["Old", "Masonry", "High"]
+        probs: [0.30, 0.70]
+      # Old, ReinforcedConcrete
+      - states: ["Old", "ReinforcedConcrete", "Low"]
+        probs: [0.97, 0.03]
+      - states: ["Old", "ReinforcedConcrete", "Moderate"]
+        probs: [0.80, 0.20]
+      - states: ["Old", "ReinforcedConcrete", "High"]
+        probs: [0.50, 0.50]
+
+      # Moderate, Wood
+      - states: ["Moderate", "Wood", "Low"]
+        probs: [0.94, 0.06]
+      - states: ["Moderate", "Wood", "Moderate"]
+        probs: [0.70, 0.30]
+      - states: ["Moderate", "Wood", "High"]
+        probs: [0.35, 0.65]
+      # Moderate, Masonry
+      - states: ["Moderate", "Masonry", "Low"]
+        probs: [0.96, 0.04]
+      - states: ["Moderate", "Masonry", "Moderate"]
+        probs: [0.78, 0.22]
+      - states: ["Moderate", "Masonry", "High"]
+        probs: [0.45, 0.55]
+      # Moderate, ReinforcedConcrete
+      - states: ["Moderate", "ReinforcedConcrete", "Low"]
+        probs: [0.99, 0.01]
+      - states: ["Moderate", "ReinforcedConcrete", "Moderate"]
+        probs: [0.88, 0.12]
+      - states: ["Moderate", "ReinforcedConcrete", "High"]
+        probs: [0.65, 0.35]
+
+      # New, Wood
+      - states: ["New", "Wood", "Low"]
+        probs: [0.97, 0.03]
+      - states: ["New", "Wood", "Moderate"]
+        probs: [0.82, 0.18]
+      - states: ["New", "Wood", "High"]
+        probs: [0.55, 0.45]
+      # New, Masonry
+      - states: ["New", "Masonry", "Low"]
+        probs: [0.98, 0.02]
+      - states: ["New", "Masonry", "Moderate"]
+        probs: [0.88, 0.12]
+      - states: ["New", "Masonry", "High"]
+        probs: [0.65, 0.35]
+      # New, ReinforcedConcrete
+      - states: ["New", "ReinforcedConcrete", "Low"]
+        probs: [0.995, 0.005]
+      - states: ["New", "ReinforcedConcrete", "Moderate"]
+        probs: [0.95, 0.05]
+      - states: ["New", "ReinforcedConcrete", "High"]
+        probs: [0.80, 0.20]
+
+  - name: "HypothermiaRisk"
+    states: ["Low", "Moderate", "High"]
+    parents: ["FloodLevel", "OccupantType"]
+    cpt:
+      - states: ["Low", "Elderly"]
+        probs: [0.70, 0.25, 0.05]
+      - states: ["Low", "Children"]
+        probs: [0.75, 0.20, 0.05]
+      - states: ["Low", "Adults"]
+        probs: [0.92, 0.07, 0.01]
+
+      - states: ["Moderate", "Elderly"]
+        probs: [0.15, 0.45, 0.40]
+      - states: ["Moderate", "Children"]
+        probs: [0.20, 0.50, 0.30]
+      - states: ["Moderate", "Adults"]
+        probs: [0.55, 0.35, 0.10]
+
+      - states: ["High", "Elderly"]
+        probs: [0.02, 0.18, 0.80]
+      - states: ["High", "Children"]
+        probs: [0.05, 0.25, 0.70]
+      - states: ["High", "Adults"]
+        probs: [0.15, 0.45, 0.40]
+
+  - name: "InjurySeverity"
+    states: ["None", "Moderate", "Critical"]
+    parents: ["StructuralCollapse", "FirePresent", "OccupantType"]
+    cpt:
+      # [StructuralCollapse, FirePresent, OccupantType]
+      # Collapse=False, Fire=False
+      - states: ["False", "False", "Elderly"]
+        probs: [0.80, 0.16, 0.04]
+      - states: ["False", "False", "Children"]
+        probs: [0.85, 0.12, 0.03]
+      - states: ["False", "False", "Adults"]
+        probs: [0.93, 0.06, 0.01]
+
+      # Collapse=False, Fire=True
+      - states: ["False", "True", "Elderly"]
+        probs: [0.20, 0.45, 0.35]
+      - states: ["False", "True", "Children"]
+        probs: [0.25, 0.45, 0.30]
+      - states: ["False", "True", "Adults"]
+        probs: [0.40, 0.45, 0.15]
+
+      # Collapse=True, Fire=False
+      - states: ["True", "False", "Elderly"]
+        probs: [0.05, 0.35, 0.60]
+      - states: ["True", "False", "Children"]
+        probs: [0.08, 0.40, 0.52]
+      - states: ["True", "False", "Adults"]
+        probs: [0.15, 0.50, 0.35]
+
+      # Collapse=True, Fire=True
+      - states: ["True", "True", "Elderly"]
+        probs: [0.01, 0.15, 0.84]
+      - states: ["True", "True", "Children"]
+        probs: [0.02, 0.20, 0.78]
+      - states: ["True", "True", "Adults"]
+        probs: [0.05, 0.30, 0.65]
+
+  - name: "PriorityScore"
+    states: ["P3", "P2", "P1"]
+    parents: ["InjurySeverity", "StructuralCollapse", "HypothermiaRisk"]
+    cpt:
+      # [InjurySeverity, StructuralCollapse, HypothermiaRisk]
+      # Injury=Critical -> almost always P1
+      - states: ["Critical", "False", "Low"]
+        probs: [0.01, 0.09, 0.90]
+      - states: ["Critical", "False", "Moderate"]
+        probs: [0.00, 0.05, 0.95]
+      - states: ["Critical", "False", "High"]
+        probs: [0.00, 0.02, 0.98]
+      - states: ["Critical", "True", "Low"]
+        probs: [0.00, 0.02, 0.98]
+      - states: ["Critical", "True", "Moderate"]
+        probs: [0.00, 0.01, 0.99]
+      - states: ["Critical", "True", "High"]
+        probs: [0.00, 0.00, 1.00]
+
+      # Injury=Moderate
+      - states: ["Moderate", "False", "Low"]
+        probs: [0.20, 0.70, 0.10]
+      - states: ["Moderate", "False", "Moderate"]
+        probs: [0.05, 0.75, 0.20]
+      - states: ["Moderate", "False", "High"]
+        probs: [0.02, 0.48, 0.50]
+      - states: ["Moderate", "True", "Low"]
+        probs: [0.01, 0.29, 0.70]
+      - states: ["Moderate", "True", "Moderate"]
+        probs: [0.00, 0.15, 0.85]
+      - states: ["Moderate", "True", "High"]
+        probs: [0.00, 0.05, 0.95]
+
+      # Injury=None
+      - states: ["None", "False", "Low"]
+        probs: [0.90, 0.09, 0.01]
+      - states: ["None", "False", "Moderate"]
+        probs: [0.45, 0.50, 0.05]
+      - states: ["None", "False", "High"]
+        probs: [0.10, 0.60, 0.30]
+      - states: ["None", "True", "Low"]
+        probs: [0.05, 0.35, 0.60]
+      - states: ["None", "True", "Moderate"]
+        probs: [0.02, 0.28, 0.70]
+      - states: ["None", "True", "High"]
+        probs: [0.00, 0.15, 0.85]

@@ -1,0 +1,38 @@
+scenario_name: "Compound Cascade: Flash Flood, Levee Breach & Bridge Collapse"
+disaster_type: "compound"
+seed: 404
+duration_steps: 120
+focus_zone: "zone_riverfront"
+rainfall_initial_mmh: 85.0
+wind_speed_initial_kmh: 60.0
+call_arrival_poisson_lambda: 0.65
+bridge_failure_probability_per_step: 0.04
+road_blockage_probability_per_step: 0.05
+fleet:
+  ambulances: 6
+  boats: 3
+  heavy_rescues: 1
+injects:
+  - step: 5
+    inject_type: "levee_breach"
+    description: "North River Levee Wall cracks, water rapidly overflows adjacent roadways"
+    parameters:
+      location: [20, 32]
+      water_surge_head: 1.8
+  - step: 8
+    inject_type: "bridge_collapse"
+    description: "Central Avenue Bridge undergoes structural foundation failure and collapses"
+    parameters:
+      location: [20, 34]
+  - step: 12
+    inject_type: "call_burst"
+    description: "Mass-casualty distress burst: 4 simultaneous calls from flooded senior center"
+    parameters:
+      count: 4
+      focus_zone: "zone_riverfront"
+      priority: "P1"
+  - step: 18
+    inject_type: "unit_breakdown"
+    description: "Ambulance AMB-2 engine overheats in deep ponding; out of service"
+    parameters:
+      vehicle_id: "AMB-2"

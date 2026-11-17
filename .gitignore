@@ -1,0 +1,80 @@
+# ==============================================================================
+# ResQ-AI - Git Ignore Configuration
+# ==============================================================================
+
+# --- Python Cache & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+lib/
+include/
+
+# --- Testing & Code Quality ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+
+# --- Streamlit Secrets & Local Configs ---
+# Keep config.toml (theme/layout), ignore credentials/secrets
+.streamlit/secrets.toml
+
+# --- Environment Variables & Keys ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Operating System Files ---
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# --- IDE & Editor Artifacts ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# --- Logs, Dumps & Mission Exports ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+sitrep_*.md
+telemetry_*.json
+chrome_dev_profile/

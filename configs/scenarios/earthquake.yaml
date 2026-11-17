@@ -1,0 +1,14 @@
+scenario_name: "Major Earthquake & Structural Collapses"
+disaster_type: "earthquake"
+seed: 303
+duration_steps: 120
+rubble_blockage_rate: 2.0
+rainfall_initial_mmh: 10.0
+wind_speed_initial_kmh: 15.0
+call_arrival_poisson_lambda: 0.7
+focus_zone: "zone_south"
+bridge_failure_probability_per_step: 0.08
+road_blockage_probability_per_step: 0.07
+fleet:
+  ambulances: 5
+  boats: 3

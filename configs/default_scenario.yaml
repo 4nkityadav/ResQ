@@ -1,0 +1,63 @@
+scenario_name: "Default Flash Flood & Evacuation"
+seed: 42
+duration_steps: 120
+time_step_minutes: 1.0
+
+grid:
+  width: 50
+  height: 50
+  river_width: 3
+  num_bridges: 4
+  elevation_gradient: "north_to_south"
+
+zones:
+  - id: "zone_north"
+    name: "North Uptown"
+    bounds: [0, 0, 50, 15]
+    base_vulnerability: 0.2
+  - id: "zone_central"
+    name: "Central Downtown"
+    bounds: [0, 15, 50, 30]
+    base_vulnerability: 0.6
+  - id: "zone_riverfront"
+    name: "Riverfront Marina"
+    bounds: [0, 30, 50, 40]
+    base_vulnerability: 0.9
+  - id: "zone_south"
+    name: "South Valley"
+    bounds: [0, 40, 50, 50]
+    base_vulnerability: 0.7
+
+fleet:
+  ambulances:
+    count: 5
+    capacity: 2
+    speed_kmh: 45.0
+    fuel_hours: 8.0
+    depot_location: [5, 5]
+  boats:
+    count: 3
+    capacity: 4
+    speed_kmh: 30.0
+    fuel_hours: 6.0
+    dock_location: [25, 35]
+
+disaster:
+  type: "flash_flood"
+  flood_rise_rate_m_per_step: 0.05
+  water_threshold_road_impassable_m: 0.35
+  water_threshold_boat_min_m: 0.20
+  bridge_failure_probability_per_step: 0.015
+  road_blockage_probability_per_step: 0.025
+  call_arrival_poisson_lambda: 0.4
+  target_p1_response_time_min: 15.0
+
+hmm:
+  escalation_alert_threshold: 0.60
+  sensor_sample_interval_steps: 1
+
+sa:
+  initial_temp: 100.0
+  cooling_rate: 0.985
+  max_iterations: 1200
+  restart_threshold: 150
