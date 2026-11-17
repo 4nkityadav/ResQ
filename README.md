@@ -15,11 +15,11 @@
 
 The tactical dashboard provides an 8px grid-aligned, symmetric 3-zone operations layout designed for mission controllers:
 
-![Tactical Command Center (1440x900)](docs/screenshots/upgraded_ui_1440.png)
-*Figure 1: Unified Incident Command Console at 1440x900 resolution. Left Rail: Scenario and layer toggles. Center Canvas (60% width): Topographic DEM, hydrologic inundation contours, road classes, and heading-oriented vehicle vectors. Right Operations Panel: 5 dedicated tabs for Incidents Queue, Fleet Disposition, Multi-Horizon Hazard Forecast, Causal Decision Explanations ("Why"), and Dispatcher Terminal with Instant Undo. Bottom Bar: Mission timeline scrubber.*
+![Tactical Command Center - Light Mode (1440x900)](docs/screenshots/clean_ui_1440.png)
+*Figure 1: Unified Incident Command Console at 1440x900 resolution. Top Sticky Navbar with live alert badge & mission clock, Center Canvas (60% width) with topographic DEM, hydrologic inundation contours, road classes, and vehicle vectors. Right Operations Panel: 5 dedicated tabs for Incidents Queue, Fleet Disposition, Hazard Forecast, Causal Explanations ("Why"), and Command Terminal with Instant Undo.*
 
-![High-Resolution Tactical Console (1920x1080)](docs/screenshots/upgraded_ui_1920.png)
-*Figure 2: Tactical Command Console at 1920x1080 widescreen resolution.*
+![Tactical Command Center - Dark Mode (1440x900)](docs/screenshots/clean_ui_1440_dark.png)
+*Figure 2: High-contrast Dark Mode console featuring illuminated action controls and grounded algorithm telemetry footer.*
 
 ---
 

@@ -72,6 +72,9 @@ $RECYCLE.BIN/
 
 # --- Logs, Dumps & Mission Exports ---
 *.log
+*.tmp
+*.bak
+audit_ui_*.png
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
